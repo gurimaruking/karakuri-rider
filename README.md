@@ -7,6 +7,7 @@
 
 **D-Robotics Robotics Dream Keeper Challenge — Winter 2026**
 Built at [Robostadion](https://robostadion.com), a robot maker space in Akihabara, Tokyo. DUG Tokyo.
+Progress thread on the challenge Discord: <https://discord.com/channels/1300358874280230994/1567099448453111848>
 
 | Stage | Window | Status |
 |---|---|---|

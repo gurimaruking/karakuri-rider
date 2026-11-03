@@ -3,6 +3,7 @@
 ## Stage 1 — Ignite (Nov 1–10)
 - [ ] Flash RDK OS 3.5.0 and boot
 - [ ] Connect (USB-C QuickLink) and open an SSH session
+- [x] Open the personal Discord thread (self-introduction, Nov 3)
 - [ ] Post the Stage 1 check-in in the Discord thread
 - [ ] Camera working (sensor evidence)
 - [ ] One on-device AI task on the BPU (YOLO), with FPS

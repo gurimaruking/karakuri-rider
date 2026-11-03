@@ -4,7 +4,7 @@
 - **Stage completed:** 1
 - **Repository:** https://github.com/gurimaruking/karakuri-rider
 - **Demo video:** TODO
-- **Community post:** TODO (Discord thread permalink)
+- **Community post:** https://discord.com/channels/1300358874280230994/1567099448453111848
 - **License:** MIT
 
 ## Summary
